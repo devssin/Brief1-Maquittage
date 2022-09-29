@@ -7,4 +7,4 @@ Pour faire un parallèle avec la vie de tous les jours, lorsque vous serez assis
 
 ## Liste des exemples d'érgonomie a savoir:
 
-![](./Screenshot 2022-09-29 at 16-19-35 12 best practices for website ergonomics.png =250x250)
+![](./Screenshot 2022-09-29 at 16-19-35 12 best practices for website ergonomics.png)
