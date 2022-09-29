@@ -8,4 +8,4 @@
 
 - [Responsive Design](https://github.com/devssin/Brief1-Maquittage/blob/master/responsive-design.md)
 
-- [élement érgonomic](https://github.com/devssin/Brief1-Maquittage/blob/ergonomy.md)
+- [élement érgonomic](https://github.com/devssin/Brief1-Maquittage/blob/master/ergonomy.md)
