@@ -8,4 +8,4 @@ Pour faire un parallèle avec la vie de tous les jours, lorsque vous serez assis
 ## Liste des exemples d'érgonomie a savoir:
 
 ![](./ergonomy.png)
-<a img="./ergonomy.png" width="200" height="200"/>
+<a img="./ergonomy.png" width="200" height="200">
