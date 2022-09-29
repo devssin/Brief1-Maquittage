@@ -19,6 +19,25 @@ Là encore, un échange avec le client est nécessaire pour valider les avancée
 
 ## 3 - Mockup
 
-Un **mockup** est une image d’interface qui a été transformée en page HTML dynamique et navigable (opération réalisée via des logiciels de conception d’interfaces). Ce nouveau format autorise l’insertion de liens vers des pages notamment. Il permet aussi de rendre un formulaire fonctionnel afin d’effectuer des simulations. Grâce à l’intégration des exigences techniques, les messages de confirmation ou d’erreur apparaissent. Autant d’actions, qui, même si elles restent sommaires, sont utiles au client pour se projeter davantage.
+Une maquette permet d’intégrer la dimension interactive. Ainsi, des liens peuvent être faits afin de montrer la navigation entre les différentes pages, et il est possible de simuler la connexion à un compte utilisateur, les erreurs lors de la saisie d’un formulaire, des carrousels d’images, etc. Une maquette permet donc d’aboutir à des simulations très puissantes (même si cela dépend du logiciel utilisé), souvent exploitables à partir d’un navigateur Web.
+
+Dans un premier temps, des interactions riches entre l’utilisateur et l’application sont mises en place. Ensuite, le design peut éventuellement être intégré.
 
 ![mockup](https://assets.justinmind.com/wp-content/uploads/2019/01/lawyer-free-responsive-website-mockup-template-Justinmind.png)
+
+## 4 - Prototype
+
+Un prototype est une application fonctionnelle, qui se focalise sur le fond, et permet de déterminer avec quelles technologies les informations seront affichées. Le prototype peut servir à tester certaines technologies (prototypes jetables) ou constituer le début de l’application future (prototype évolutif).
+
+un prototype est généralement unique (soit abandonné par la suite, soit fait pour évoluer), contrairement aux wireframes et maquettes qui peuvent être multiples.
+
+![prototype](https://www.devteam.space/wp-content/uploads/2021/03/figma-prototype.jpg)
+
+</br>
+
+## 5 - Mockup
+
+![mockup](https://cdn.dribbble.com/users/748731/screenshots/5782433/animated-iphone-8-and-iphone-x-mockups.gif)
+
+Un **mockup** est une image d’interface qui a été transformée en page HTML dynamique et navigable (opération réalisée via des logiciels de conception d’interfaces). Ce nouveau format autorise l’insertion de liens vers des pages notamment. Il permet aussi de rendre un formulaire fonctionnel afin d’effectuer des simulations. Grâce à l’intégration des exigences techniques, les messages de confirmation ou d’erreur apparaissent. Autant d’actions, qui, même si elles restent sommaires, sont utiles au client pour se projeter davantage.
+
