@@ -15,21 +15,20 @@ Le **wireframe** est la suite logique du zoning. Chaque bloc réalisé lors de l
 
 ![wireframe](https://www.indexel.com/wp-content/uploads/2016/11/zoning-wireframe-ET-ZONING-2.png)
 
-Là encore, un échange avec le client est nécessaire pour valider les avancées. Le wireframe, en bon outil de communication, l’aide à se projeter. Il évite surtout la rédaction d’un cahier des charges fonctionnel où les besoins peuvent être incomplets ou mal définis, ce qui entrainerait une refonte coûteuse de la plateforme finale. Les wireframes jouent le même rôle en présentant chaque fonctionnalité et spécification associée.
+Là encore, un échange avec le client est nécessaire pour valider les avancées. Le **wireframe**, en bon outil de communication, l’aide à se projeter. Il évite surtout la rédaction d’un cahier des charges fonctionnel où les besoins peuvent être incomplets ou mal définis, ce qui entrainerait une refonte coûteuse de la plateforme finale. Les **wireframes** jouent le même rôle en présentant chaque fonctionnalité et spécification associée.
 
-## 3 - Mockup
+## 3 - Maquette
 
-Une maquette permet d’intégrer la dimension interactive. Ainsi, des liens peuvent être faits afin de montrer la navigation entre les différentes pages, et il est possible de simuler la connexion à un compte utilisateur, les erreurs lors de la saisie d’un formulaire, des carrousels d’images, etc. Une maquette permet donc d’aboutir à des simulations très puissantes (même si cela dépend du logiciel utilisé), souvent exploitables à partir d’un navigateur Web.
-
-Dans un premier temps, des interactions riches entre l’utilisateur et l’application sont mises en place. Ensuite, le design peut éventuellement être intégré.
+Une **maquette** de site web est une ébauche d'un site Internet qui est présentée sous forme statique à l'annonceur commanditaire.
+Sur les pages de la **maquette** ne figurent généralement que l'identification des différentes zones de contenus.
 
 ![mockup](https://assets.justinmind.com/wp-content/uploads/2019/01/lawyer-free-responsive-website-mockup-template-Justinmind.png)
 
 ## 4 - Prototype
 
-Un prototype est une application fonctionnelle, qui se focalise sur le fond, et permet de déterminer avec quelles technologies les informations seront affichées. Le prototype peut servir à tester certaines technologies (prototypes jetables) ou constituer le début de l’application future (prototype évolutif).
+Un ****prototype**** est une application fonctionnelle, qui se focalise sur le fond, et permet de déterminer avec quelles technologies les informations seront affichées. Le **prototype** peut servir à tester certaines technologies (**prototype**s jetables) ou constituer le début de l’application future (**prototype** évolutif).
 
-un prototype est généralement unique (soit abandonné par la suite, soit fait pour évoluer), contrairement aux wireframes et maquettes qui peuvent être multiples.
+un **prototype** est généralement unique (soit abandonné par la suite, soit fait pour évoluer), contrairement aux wireframes et maquettes qui peuvent être multiples.
 
 ![prototype](https://www.devteam.space/wp-content/uploads/2021/03/figma-prototype.jpg)
 

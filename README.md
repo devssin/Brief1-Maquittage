@@ -8,4 +8,9 @@
 
 - [Responsive Design](https://github.com/devssin/Brief1-Maquittage/blob/master/responsive-design.md)
 
-- [élement érgonomic](https://github.com/devssin/Brief1-Maquittage/blob/master/ergonomy.md)
+- [Element érgonomic](https://github.com/devssin/Brief1-Maquittage/blob/master/ergonomy.md)
+
+<br><br>
+
+# Brief de la deusième journée
+[🔗 Livrable 2 (Zoning + wireframe) sur Figma : ](https://www.figma.com/file/8d71jqtKA9IRcl3T5wTgQi/ArtistTime?node-id=0%3A1)
