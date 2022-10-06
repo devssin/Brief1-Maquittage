@@ -12,5 +12,5 @@
 
 <br><br>
 
-# Brief de la deusième journée
-[🔗 Livrable 2 (Zoning + wireframe) sur Figma : ](https://www.figma.com/file/8d71jqtKA9IRcl3T5wTgQi/ArtistTime?node-id=0%3A1)
+# Brief de la deusième et troisième journée
+[🔗  Projet final sur Figma (Zoning + Wireframe + Maquette des pages avec leurs prototypes): ](https://www.figma.com/file/8d71jqtKA9IRcl3T5wTgQi/ArtistTime?node-id=0%3A1)
